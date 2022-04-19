@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AW3Rgo0l
+- 👋 Hi, I’m Mushnikov Danil
 - 👀 I’m interested in Backend developing but i want to became a great Full-Stack developer
 - 🌱 I’m currently learning Python and improve my knowlege in C#
 - 💞️ I’m looking to collaborate on some company where i can studying and get good knowledge and interesting projects
