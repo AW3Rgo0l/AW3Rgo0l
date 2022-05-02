@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mushnikov Danil
-- 👀 I’m interested in Backend developing and i want to became a great Python developer
-- 🌱 I’m currently learning Python and trying to improve my knowlege in PostgreSQL and Frameworks of Python
+- 👀 I’m interested in developing and i want to became a good developer
+- 🌱 I’m currently learning C/C++ and trying to improve my knowlege in PostgreSQL and Frameworks
 - 💞️ I’m looking to collaborate on some company where i can studying and get good knowledge and interesting projects
 - 📫 How to reach me: - my gmail: danmushnikov@gmail.com
 
