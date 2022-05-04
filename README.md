@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mushnikov Danil
-- 👀 I’m interested in developing and i want to became a great developer
+- 👀 I’m interested in developing and learning
 - 🌱 I’m currently learning C/C++ and trying to improve my knowlege in PostgreSQL, Frameworks, Git and much more
 - 💞️ I’m looking to collaborate on some company where i can studying and get good knowledge and interesting projects
 - 📫 How to reach me: - my gmail: danmushnikov@gmail.com
