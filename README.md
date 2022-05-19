@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Mushnikov Danil
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning a few programming languages, frameworks and overall programming
 - 📫 How to reach me: - my gmail: danmushnikov@gmail.com
 
 <!---
